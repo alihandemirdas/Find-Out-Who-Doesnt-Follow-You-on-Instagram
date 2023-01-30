@@ -1,4 +1,4 @@
-#Instagram'da seni kimlerin takip etmediğini öğren. [TR]
+# Instagram'da seni kimlerin takip etmediğini öğren. [TR]
 Instagram'da sizi takip etmeyenleri çok basit bir hile ile öğrenebilirsiniz.
 
 Sadece masaüstünden instagram hesabınıza giriş yapın ve ayarlar kısmından gizlilik ve güvenlik seçeneğini seçin ve verilerinizi isteyin. Daha sonra size bir e-mail gönderecekler. DİKKATLİ OLUN. Verilerinizi json formatında isteyeceksiniz, html değil.
@@ -7,7 +7,7 @@ Kısa bir süre sonra onlar size bir mail gönderecekler ve linke tıklayıp hes
 
 .zip dosyasının içindeki "followers_and_following" klasörünün içinden followers.json ve following.json dosyalarını kopyalayın ve run.py dosyası ile aynı dizine atın ve scripti çalıştırın. İşte bu kadar!
 
-#Find out who doesn't follow you on Instagram. [EN]
+# Find out who doesn't follow you on Instagram. [EN]
 You can find out who unfollowed you on Instagram with a very simple trick.
 
 Just log in to your Instagram account from the desktop and select the privacy and security option in the settings and request your data. They will then send you an e-mail. BE CAREFUL. You will want your data in json format, not html.
