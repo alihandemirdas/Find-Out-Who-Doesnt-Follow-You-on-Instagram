@@ -1,5 +1,5 @@
 # Instagram'da seni kimlerin takip etmediğini öğren. [TR]
-Instagram'da sizi takip etmeyenleri çok basit bir hile ile öğrenebilirsiniz.
+Instagram'da sizi takip etmeyenleri çok basit bir hareket ile öğrenebilirsiniz.
 
 Sadece masaüstünden instagram hesabınıza giriş yapın ve ayarlar kısmından gizlilik ve güvenlik seçeneğini seçin ve verilerinizi isteyin. Daha sonra size bir e-mail gönderecekler. DİKKATLİ OLUN. Verilerinizi json formatında isteyeceksiniz, html değil.
 
