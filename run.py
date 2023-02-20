@@ -12,8 +12,8 @@ followersdata = open("followers.json").read()
 newffdata = json.loads(followersdata)
 followerslist = []
 
-for x in range(len(newffdata["relationships_followers"])):
-         followerslist.append(newffdata["relationships_followers"][x]["string_list_data"][0]["value"])
+for x in range(len(newffdata)):
+         followerslist.append(newffdata[x]["string_list_data"][0]["value"])
 
 
 for x in range(len(followinglist)):
